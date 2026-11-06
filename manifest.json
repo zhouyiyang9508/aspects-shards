@@ -1,0 +1,125 @@
+{
+ "job_id": "aspects-p3",
+ "batch_items": 100,
+ "batch_chars": 45000,
+ "concurrency": 2,
+ "model": "opencode/deepseek-v4.1-flash-free",
+ "created_at": "2026-10-21T16:43:39.330632+00:00",
+ "shards": [
+  {
+   "id": "aspects-p2-000",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-000.jsonl.gz",
+   "rows": 5000,
+   "sha256": "fe8c3fe89f60ebe275a0392daae1d725e35cb55b477a15dd22ced090af98f4dc"
+  },
+  {
+   "id": "aspects-p2-001",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-001.jsonl.gz",
+   "rows": 5000,
+   "sha256": "6db410f37e6935a8d78f1f6966cc4f335c926680938f880d859f150a6b7f3685"
+  },
+  {
+   "id": "aspects-p2-002",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-002.jsonl.gz",
+   "rows": 5000,
+   "sha256": "068c9502dc4f8cb31205ffea4c0b2e643c62be7317dfe8eaa4156c13c8932f16"
+  },
+  {
+   "id": "aspects-p2-003",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-003.jsonl.gz",
+   "rows": 5000,
+   "sha256": "a34ceae720c77b9234c3102481eec2438c1de7203ba3aed43cfe42f2f0f7ba4d"
+  },
+  {
+   "id": "aspects-p2-004",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-004.jsonl.gz",
+   "rows": 5000,
+   "sha256": "2079baa3fc95ea97d1d114c426f1bf554a75aa56065f8a8023fc5c60c1c9a0b7"
+  },
+  {
+   "id": "aspects-p2-005",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-005.jsonl.gz",
+   "rows": 5000,
+   "sha256": "92a389dc7020ad0c12622a00c7a7762f046b97385cb596fa33e05890e5fcfa8c"
+  },
+  {
+   "id": "aspects-p2-006",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-006.jsonl.gz",
+   "rows": 5000,
+   "sha256": "32fd6f56d465fd1fc92702c1918267df9df674e8128295c3c5d9655d834189b1"
+  },
+  {
+   "id": "aspects-p2-007",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-007.jsonl.gz",
+   "rows": 5000,
+   "sha256": "7b01d11e241ff082784e85c94206767fea0b583b42303243566783dfe6c66735"
+  },
+  {
+   "id": "aspects-p2-008",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-p2-008.jsonl.gz",
+   "rows": 46,
+   "sha256": "4178fbdcf1e8ccef501f36581bdb2127985110f27fbdb952c269d422cf04730c"
+  },
+  {
+   "id": "aspects-bf1-000",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-000.jsonl.gz",
+   "rows": 5000,
+   "sha256": "36f403e89ab70427267354fde70fe5d93bb1ac38be8a34df1a5001e8be51e06c"
+  },
+  {
+   "id": "aspects-bf1-001",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-001.jsonl.gz",
+   "rows": 5000,
+   "sha256": "96f1de6891e0837e1fe01c0d4b84bf83618734cdcba22971b52e0fda29c54e02"
+  },
+  {
+   "id": "aspects-bf1-002",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-002.jsonl.gz",
+   "rows": 5000,
+   "sha256": "8b3b4434cf8cb3366979641382eacf1f2570fd2cd883c70251febc5bd7301d53"
+  },
+  {
+   "id": "aspects-bf1-003",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-003.jsonl.gz",
+   "rows": 5000,
+   "sha256": "d3e0d5e867d78e6b0dad2738322f2735fc18700181bbb8cbd8088ce980ab57ca"
+  },
+  {
+   "id": "aspects-bf1-004",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-004.jsonl.gz",
+   "rows": 5000,
+   "sha256": "8e39b099a89c0a6f3e812db796a111c152d7dd8f14b0a52786fc382a3b57c039"
+  },
+  {
+   "id": "aspects-bf1-005",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-005.jsonl.gz",
+   "rows": 5000,
+   "sha256": "03a027a38008064bbbd0bbadd21630bf634511e78fc126366829cad65e11f989"
+  },
+  {
+   "id": "aspects-bf1-006",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-006.jsonl.gz",
+   "rows": 5000,
+   "sha256": "1637c644675d61658495115468a13f422398f18a7e0701a86ce45e93afe443d8"
+  },
+  {
+   "id": "aspects-bf1-007",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-007.jsonl.gz",
+   "rows": 5000,
+   "sha256": "6ecd7e44ae9b5ab1fbe1e528f8889a5ccd9d0930a09ea41b57c2998a3ddc12f8"
+  },
+  {
+   "id": "aspects-bf1-008",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-008.jsonl.gz",
+   "rows": 5000,
+   "sha256": "17958c043afd19d5397deb76ac7eb3f0a34a6525351d1243cdf5e8c86ef4aec5"
+  },
+  {
+   "id": "aspects-bf1-009",
+   "url": "https://raw.githubusercontent.com/zhouyiyang9508/aspects-shards/main/aspects-bf1-009.jsonl.gz",
+   "rows": 5000,
+   "sha256": "331c349c946c0053a9cf63dc2e69da0e9ce8fb2bfa935ca6afe2cde39be1e743"
+  }
+ ],
+ "note": "priority remainder then backfill 000-009; 010-018 moved to vps2 | rehosted from local shard copies (x0.at unreachable 2026-11-06)"
+}

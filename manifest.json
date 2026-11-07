@@ -1,7 +1,7 @@
 {
  "job_id": "aspects-p3",
- "batch_items": 25,
- "batch_chars": 12000,
+ "batch_items": 100,
+ "batch_chars": 45000,
  "concurrency": 2,
  "model": "opencode/deepseek-v4.1-flash",
  "created_at": "2026-10-21T16:43:39.330632+00:00",
